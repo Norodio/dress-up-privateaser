@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  background: #e8f4f5;
+}
+
+.header{
+    background: rgb(44,62,80);
+    margin: 0;
+}
+
+.body {
+    position: relative;
+    border: transparent;
+    border-radius: 12px;
+    padding-top: 2%;
+    padding-left: 35%;
+    padding-right: 15px;
+    padding-bottom: 1%
+  }
+
+  .b{
+    display : inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+}
